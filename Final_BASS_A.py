@@ -144,7 +144,7 @@ btn_quit.grid(row=5, column=2)
 # Adding 2nd window,title,sizing, background color changed
 main2 = Tk()
 main2.title("Instructions")
-main2.geometry("800x500")
+main2.geometry("500x500")
 main2.config(bg="black")
 
 # Creating a label for main2 window
